@@ -1,0 +1,15 @@
+﻿{
+  "scenes": [
+    {"id": 1, "act": "I", "time": "0:00-0:05", "title": "Opening Montage", "location": "Europa-7 Colony", "characters": ["Kaelen Voss", "Jax Merrick", "Elara Voss", "Commander Rourke"]},
+    {"id": 2, "act": "I", "time": "0:05-0:10", "title": "Discovery", "location": "Communications Center", "characters": ["Lyra Chen", "Dr. Anya Sharma", "Zane Drakos", "Commander Rourke"]},
+    {"id": 3, "act": "I", "time": "0:10-0:15", "title": "The Team Assembles", "location": "Hangar Bay", "characters": ["Kaelen Voss", "Theron", "Dr. Anya Sharma", "Jax Merrick", "Bodhi Korr", "Finn O'Dell"]},
+    {"id": 4, "act": "I", "time": "0:15-0:20", "title": "Descent", "location": "Submersible Lament", "characters": ["Kaelen Voss", "Dr. Anya Sharma", "Jax Merrick", "Bodhi Korr", "Finn O'Dell"]},
+    {"id": 5, "act": "II", "time": "0:20-0:30", "title": "The Temple", "location": "Alien Temple", "characters": ["Dr. Sana Al-Rashid", "Cyrus Vane", "Draven Kross", "Dr. Anya Sharma"]},
+    {"id": 6, "act": "II", "time": "0:30-0:40", "title": "The Titan Speaks", "location": "Nexus Chamber", "characters": ["Nyx", "Kaelen Voss", "Dr. Anya Sharma"]},
+    {"id": 7, "act": "II", "time": "0:40-0:50", "title": "Sabotage", "location": "Submersible Lament", "characters": ["Zane Drakos", "Jax Merrick", "Finn O'Dell", "Dr. Mira Solis"]},
+    {"id": 8, "act": "II", "time": "0:50-1:00", "title": "The Test of Blood", "location": "Nexus Chamber", "characters": ["Nyx", "Kaelen Voss", "Elara Voss", "Commander Rourke"]},
+    {"id": 9, "act": "III", "time": "1:00-1:08", "title": "The Choice", "location": "Nexus Chamber", "characters": ["Kaelen Voss", "Dr. Anya Sharma", "Nyx"]},
+    {"id": 10, "act": "III", "time": "1:08-1:15", "title": "The Gamble", "location": "Temple", "characters": ["Kaelen Voss", "Dr. Anya Sharma", "Jax Merrick", "Zane Drakos", "Bodhi Korr"]},
+    {"id": 11, "act": "III", "time": "1:15-1:20", "title": "The New Dawn", "location": "Europa-7", "characters": ["Kaelen Voss", "Dr. Anya Sharma", "Jax Merrick", "Elara Voss"]}
+  ]
+}

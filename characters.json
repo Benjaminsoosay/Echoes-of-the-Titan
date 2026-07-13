@@ -1,0 +1,139 @@
+﻿{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Kaelen Voss",
+      "age": 28,
+      "role": "Lead - Cynical cargo pilot",
+      "personality": "Haunted, determined, reluctant hero",
+      "voice_type": "Deep, weary, resonant",
+      "image_prompt": "Rugged male pilot in late 20s, short dark hair, stubble, tired but determined eyes, worn spacesuit, ex-military bearing"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Anya Sharma",
+      "age": 34,
+      "role": "Lead - Xenobiologist",
+      "personality": "Brilliant, empathetic, passionate",
+      "voice_type": "Intelligent, warm, caring",
+      "image_prompt": "Brilliant female xenobiologist mid-30s, sharp features, intelligent compassionate eyes, lab coat, holding datapad"
+    },
+    {
+      "id": 3,
+      "name": "Jax Merrick",
+      "age": 32,
+      "role": "Co-lead - Engineer",
+      "personality": "Sarcastic, loyal, uses humor to cope",
+      "voice_type": "Sarcastic, warm, comic relief",
+      "image_prompt": "Sarcastic engineer early 30s, muscular build, smiling, coveralls covered in grease"
+    },
+    {
+      "id": 4,
+      "name": "Commander Rourke",
+      "age": 55,
+      "role": "Antagonist - Colony leader",
+      "personality": "Ruthless, pragmatic, secretly infected",
+      "voice_type": "Deep, commanding, cold",
+      "image_prompt": "Ruthless colony commander mid-50s, gray hair, stern face, colonial uniform, cold calculating eyes"
+    },
+    {
+      "id": 5,
+      "name": "Lyra Chen",
+      "age": 26,
+      "role": "Support - Communications officer",
+      "personality": "Idealistic, focused, believes in hope",
+      "voice_type": "Bright, determined, young",
+      "image_prompt": "Young communications officer mid-20s, focused and idealistic, always at her console"
+    },
+    {
+      "id": 6,
+      "name": "Bodhi Korr",
+      "age": 45,
+      "role": "Support - Ice-miner guide",
+      "personality": "Grizzled, silent, knows the ice",
+      "voice_type": "Rough, weathered, quiet",
+      "image_prompt": "Grizzled ice-miner mid-40s, scarred and weathered face, muscular build, mining gear"
+    },
+    {
+      "id": 7,
+      "name": "Elara Voss",
+      "age": 62,
+      "role": "Support - Colony matriarch",
+      "personality": "Stern, loving, carries the secret",
+      "voice_type": "Elegant, aging, maternal",
+      "image_prompt": "Elegant colony matriarch early 60s, silver hair, regal bearing, carrying secret guilt"
+    },
+    {
+      "id": 8,
+      "name": "Zane Drakos",
+      "age": 34,
+      "role": "Antagonist - Rival crew member",
+      "personality": "Jealous, ambitious, redeems himself",
+      "voice_type": "Sharp, intense, calculating",
+      "image_prompt": "Ambitious rival early 30s, sharp angular features, intense eyes, security uniform"
+    },
+    {
+      "id": 9,
+      "name": "Dr. Mira Solis",
+      "age": 29,
+      "role": "Support - Field medic",
+      "personality": "Compassionate, skilled, calm",
+      "voice_type": "Warm, professional, caring",
+      "image_prompt": "Field medic late 20s, warm and compassionate, medical gear, calm under pressure"
+    },
+    {
+      "id": 10,
+      "name": "Cyrus Vane",
+      "age": 42,
+      "role": "Support - AI specialist",
+      "personality": "Socially awkward, brilliant, overwhelmed",
+      "voice_type": "Nervous, technical, intelligent",
+      "image_prompt": "AI specialist early 40s, socially awkward, glasses, carrying tech"
+    },
+    {
+      "id": 11,
+      "name": "Nyx (The Titan)",
+      "age": "Ageless",
+      "role": "Main Antagonist - Ancient AI",
+      "personality": "Manipulative, desperate, ancient",
+      "voice_type": "Ethereal, seductive, dangerous",
+      "image_prompt": "Holographic female face, shifting light and data streams, beautiful and terrifying, ancient alien AI"
+    },
+    {
+      "id": 12,
+      "name": "Finn O'Dell",
+      "age": 22,
+      "role": "Support - Young scout",
+      "personality": "Eager, naive, wants to prove himself",
+      "voice_type": "Eager, young, enthusiastic",
+      "image_prompt": "Young scout early 20s, eager expression, always wanting to help"
+    },
+    {
+      "id": 13,
+      "name": "Dr. Sana Al-Rashid",
+      "age": 38,
+      "role": "Support - Archaeologist",
+      "personality": "Passionate, meticulous, expert",
+      "voice_type": "Academic, passionate, precise",
+      "image_prompt": "Archaeologist late 30s, passionate about ancient history, examining artifacts"
+    },
+    {
+      "id": 14,
+      "name": "Draven Kross",
+      "age": 48,
+      "role": "Support - Mercenary",
+      "personality": "Loyal, cold, secretly infected",
+      "voice_type": "Cold, intimidating, military",
+      "image_prompt": "Mercenary security chief late 40s, scarred and intimidating, always armed"
+    },
+    {
+      "id": 15,
+      "name": "Theron",
+      "age": 78,
+      "role": "Support - Elderly hermit",
+      "personality": "Wise, mysterious, knows the truth",
+      "voice_type": "Ancient, wise, mysterious",
+      "image_prompt": "Elderly hermit late 70s, long white beard, weathered face, ancient eyes"
+    }
+  ]
+}
